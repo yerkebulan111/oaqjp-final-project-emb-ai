@@ -1,4 +1,4 @@
-<h1 align="center"> IBM Full Stack Software Developer Certificate <br> Developing AI Applications with Python and Flask </h1>
+<h1 align="center"> Final Project </h1>
 
 ## Emotion Detector
 
